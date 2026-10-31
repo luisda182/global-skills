@@ -67,3 +67,9 @@ Every substantive rule should have an inspectable illustration, diagram, specime
 ## Gate A: Manual de Marca approval
 
 The Manual de Marca is the design-system approval artifact. Include a proposed inventory of every asset to be generated **after** manual approval, with intended formats, dimensions, variants, production dependencies and acceptance tests. Include coherent draft source artwork sufficient to derive reliable geometry, logo treatments and specifications; do not fabricate exact dimensions from arbitrary mockups. A draft manual may be complete as a **review document** while final export assets remain pending. Mark the document "Draft — awaiting Manual Approval" until explicitly accepted. Following acceptance, freeze the approved system and start production of its listed assets; revisions to identity rules require renewed scoped approval.
+
+## Focused revision documents
+
+For a localized change, follow [modular-revisions.md](modular-revisions.md) rather than recreating the complete manual. A revision PDF must clearly identify the element being reconsidered, approved constraints that remain unchanged, 2–3 visually comparable alternatives where useful, application context, rationale, tradeoffs and a selection request. Label it a **revision supplement**, not the full Manual de Marca.
+
+Preserve the current manual draft and editable sources. Approved revision decisions go into a pending change queue and are merged into a new manual version in one coordinated pass when the user requests consolidation or finishes reviewing. Rerender and revalidate all affected manual pages then; preserve the previous version. Gate A is only satisfied by explicit approval of the consolidated manual.

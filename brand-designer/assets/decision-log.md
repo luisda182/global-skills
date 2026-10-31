@@ -20,3 +20,17 @@ Copy this file into the selected business's workspace. Add entries for actual de
 ## Additional decision evidence
 
 For strategy, naming, direction, palette, master logos, applications and final release, record exact approved scope and source. Distinguish concept selection from production acceptance. Log review failures, revision requests, superseded masters, acceptance conditions and dates. Never convert a proposal or lack of objection into approval.
+
+## Modular revision entry fields
+
+- Revision ID and business ID:
+- Manual baseline version and selected direction:
+- Requested element(s) and reason:
+- In-scope changes and explicitly preserved elements:
+- Revision depth (Quick / Standard / Extended):
+- Dependencies or batch group:
+- Options and focused PDF path:
+- Decision (selected / rejected / pending) and user evidence:
+- Status (proposed / approved for consolidation / superseded):
+- Affected manual pages, assets and specifications:
+- Consolidation target version and Gate A status:

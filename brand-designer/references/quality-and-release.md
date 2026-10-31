@@ -40,3 +40,9 @@ Use a pass/fail/unverified result for each gate. A mandatory failed or unverifie
 **Gate A — Manual approval:** validate the actual multipage PDF and coherent draft masters, strategy/name/direction alignment, technical specifications, and proposed production inventory. Ask for explicit acceptance of the identity system. Do not require all final export files at this gate.
 
 **Gate B — Asset release approval:** after Gate A, produce and verify every approved final asset or mark a documented exception. Check vector masters, PNG/PDF exports, dimensions, print profiles, licenses, manifest, consistency with the accepted manual and file integrity. Ask for explicit production release acceptance. Never describe Gate A as final asset delivery or Gate B as automatic.
+
+## Revision QA and resource discipline
+
+A focused revision PDF is a legitimate intermediate review artifact, not a complete manual or final asset release. Verify that it opens, its pages render, alternatives use consistent context and scale, typography is actually readable, and proposed changes do not silently alter unrelated approved elements. Check file paths before linking.
+
+Minimize avoidable work: reuse existing artwork, render only affected mockups, avoid full-manual regeneration and duplicate research during option exploration, and consolidate related changes. Never promise a fixed token reduction; actual cost depends on tools, complexity and context. Upon final consolidation, validate the updated full manual and obtain Gate A approval before asset production.

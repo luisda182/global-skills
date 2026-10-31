@@ -63,3 +63,7 @@ Every substantive rule should have an inspectable illustration, diagram, specime
 - Generate and inspect **every** PDF page at readable scale. Verify clipping, text overflow, fonts/glyphs, line breaks, page numbering, image resolution, graphic consistency and appendix references. A contact sheet is supplementary only.
 - Cross-check values against actual master assets, tokens and appendix; fix discrepancies and re-render affected pages.
 - Record actual source/PDF file paths and inspection results in the release manifest. If PDF generation or page inspection is unavailable, label the manual incomplete and disclose why.
+
+## Gate A: Manual de Marca approval
+
+The Manual de Marca is the design-system approval artifact. Include a proposed inventory of every asset to be generated **after** manual approval, with intended formats, dimensions, variants, production dependencies and acceptance tests. Include coherent draft source artwork sufficient to derive reliable geometry, logo treatments and specifications; do not fabricate exact dimensions from arbitrary mockups. A draft manual may be complete as a **review document** while final export assets remain pending. Mark the document "Draft — awaiting Manual Approval" until explicitly accepted. Following acceptance, freeze the approved system and start production of its listed assets; revisions to identity rules require renewed scoped approval.

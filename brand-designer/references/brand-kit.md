@@ -51,3 +51,7 @@ A full kit is a collection of actual files, not a single image. Required categor
 - Select applications from actual channels and provide relevant mockups **and**, when required, separately measured production layouts; distinguish each from a concept image.
 - Include an asset index with filenames, paths, format, dimensions, color space if known, editable/export status, source/license, approval status and limitations. Deliver semantic digital tokens when applicable.
 - Ensure all representations of the identity use the same approved master assets; do not regenerate logo lettering separately for every mockup.
+
+## Manual-first packaging rule
+
+A manual approval candidate contains the PDF, editable layout source where supported, technical appendix, approved/proposed source-of-truth specifications, representative draft artwork, application mockups, and a **planned production asset manifest**. It need not contain all final exports. After explicit manual approval, produce the individual production assets listed in the approved manifest and validate them. Label draft masters and mockups separately from final exports; no final package may be called delivered at Gate A. Use [asset-production.md](asset-production.md) for technical standards.

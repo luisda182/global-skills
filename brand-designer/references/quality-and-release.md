@@ -34,3 +34,9 @@ Before declaring a complete brand kit or Manual de Marca ready:
 8. **Handoff:** provide versioned files and manifest, review results, known limitations, and an explicit acceptance request. Do not mark approved until accepted.
 
 Use a pass/fail/unverified result for each gate. A mandatory failed or unverified item blocks a **complete/production-ready** claim; deliver an accurately labeled draft or partial release instead. Do not assert inspection was performed unless files were actually inspected.
+
+## Two acceptance gates
+
+**Gate A — Manual approval:** validate the actual multipage PDF and coherent draft masters, strategy/name/direction alignment, technical specifications, and proposed production inventory. Ask for explicit acceptance of the identity system. Do not require all final export files at this gate.
+
+**Gate B — Asset release approval:** after Gate A, produce and verify every approved final asset or mark a documented exception. Check vector masters, PNG/PDF exports, dimensions, print profiles, licenses, manifest, consistency with the accepted manual and file integrity. Ask for explicit production release acceptance. Never describe Gate A as final asset delivery or Gate B as automatic.

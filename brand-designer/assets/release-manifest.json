@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "brand_id": null,
+  "version": null,
+  "status": "draft",
+  "approved_decision_ids": [],
+  "categories": [
+    {
+      "category": "strategy",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "naming-and-messaging",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "logo-system",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "color",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "typography",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "visual-language",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "voice",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "applications",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "guidelines",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "technical-appendix",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    },
+    {
+      "category": "asset-package",
+      "status": "pending",
+      "files": [],
+      "exclusion_or_blocker": null
+    }
+  ],
+  "files": [],
+  "validation": [],
+  "limitations": [],
+  "note": "File entries should include path, format, purpose, status, provenance, license, and validation. Category status: delivered, pending, out-of-scope, or unavailable. Record reasons for exclusions. Release approval requires evidence in the decision log."
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "brand_id": null,
+  "business_name": null,
+  "parent_brand_id": null,
+  "workspace_path": null,
+  "brief_path": null,
+  "approved_release": null,
+  "active_candidate": null,
+  "authoritative_sources": [],
+  "constraints": [],
+  "assumptions": [],
+  "decisions": [],
+  "note": "Copy per business. Null values are unknown, not approvals. Decision entries identify area, scope, status, source, date, and authority."
+}

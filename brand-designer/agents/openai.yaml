@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Designer"
+  short_description: "Create and maintain distinct business brand kits"
+  default_prompt: "Use $brand-designer to understand my business and develop a complete brand kit with approval checkpoints."

@@ -43,3 +43,28 @@ Explicit request only.
 
 Status:
 Active
+
+### Brand Designer
+
+Description:
+Develops distinct business and product brand identities, complete branding kits, and reusable guidelines. Supports brand strategy, naming, logo systems, typography, color palettes, brand voice, illustrated brand manuals, identity audits, and approved revisions.
+
+Activation phrases:
+- Run Brand Designer
+- Use my Brand Designer skill
+- Create a brand identity
+- Design a branding kit
+- Create a brand manual
+- Audit this brand identity
+
+Repository:
+https://github.com/LUISDA182/global-skills/tree/main/brand-designer
+
+Skill Instructions:
+https://github.com/LUISDA182/global-skills/blob/main/brand-designer/SKILL.md
+
+Activation:
+Explicit request only.
+
+Status:
+Active

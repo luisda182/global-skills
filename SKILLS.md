@@ -68,3 +68,35 @@ Explicit request only.
 
 Status:
 Active
+
+### Document & Presentation Theme Manager
+
+Skill name:
+`document-presentation-theme-manager`
+
+Description:
+Applies three independent themes to documents and presentations: Academic Clarity for student assessments and study guides (digital and grayscale print), Institutional Professional for formal Science Department reports, and Scientific Discovery for engaging classroom presentations. Preserves school letterhead and content; includes theme routing, overrides, accessibility checks, font fallbacks, validation, and optional template guidance.
+
+Activation phrases:
+- Run Document & Presentation Theme Manager
+- Use my Theme Manager skill
+- Apply Academic Clarity
+- Apply Institutional Professional
+- Apply Scientific Discovery
+- Format this using my document and presentation themes
+
+Repository:
+https://github.com/LUISDA182/global-skills/tree/main/document-presentation-theme-manager
+
+Skill Instructions:
+https://github.com/LUISDA182/global-skills/blob/main/document-presentation-theme-manager/SKILL.md
+
+Supporting directories:
+- `document-presentation-theme-manager/themes/`
+- `document-presentation-theme-manager/references/`
+
+Activation:
+Explicit request only. After activation, automatically route each deliverable to the appropriate theme unless the user overrides the choice. Read required supporting files before applying the theme.
+
+Status:
+Active

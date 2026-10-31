@@ -20,3 +20,17 @@ Present a release candidate with a concise review result, previews, delivered fo
 Record user acceptance or explicit delegated authority in the decision log, update the release manifest and business record, and preserve the accepted version. If changes are requested, keep acceptance scoped: approval of a palette does not approve an unrelated logo. A rejected direction remains rejected unless the user reopens it.
 
 For a later rebrand, retain the prior accepted release, identify affected outputs, and create a migration note describing the approved replacements. Do not silently rewrite the existing source of truth.
+
+## Mandatory release gates and failure conditions
+
+Before declaring a complete brand kit or Manual de Marca ready:
+1. **Existence:** verify the real PDF, layout source (or explicit exception), technical appendix, logo masters/exports, selected applications and manifest. Never substitute a single image or written promise.
+2. **Coverage:** check every required chapter and kit category against the approved brief; note exclusions, blockers, drafts and missing items explicitly.
+3. **Page inspection:** render and visually inspect **every PDF page** at readable scale for overflow, clipping, missing fonts/glyphs, image problems, layout rhythm, captions, page numbers and contents references; re-render fixes.
+4. **Asset integrity:** open representative files and verify SVG paths/viewBox, PNG transparency, intended dimensions, color roles, logo consistency, source editability and file paths.
+5. **Technical accuracy:** recompute color contrast and validate values, measurements, type licensing evidence, qualified print conversions and matching tokens. Unknown or simulated specifications must be labeled.
+6. **Evidence integrity:** remove unverified trademark/domain/social availability checkmarks, fabricated business/customer claims, fictitious contact information, untested legal or compliance statements.
+7. **Brand coherence:** compare the approved concept against name, mark, palette, type, graphics, voice and applications; correct off-system assets.
+8. **Handoff:** provide versioned files and manifest, review results, known limitations, and an explicit acceptance request. Do not mark approved until accepted.
+
+Use a pass/fail/unverified result for each gate. A mandatory failed or unverified item blocks a **complete/production-ready** claim; deliver an accurately labeled draft or partial release instead. Do not assert inspection was performed unless files were actually inspected.

@@ -39,3 +39,15 @@ Choose hierarchy by medium, using relative scales for responsive use and concret
 Use business-local folders such as `strategy/`, `logos/`, `colors/`, `typography/`, `visual-language/`, `voice/`, `templates/`, `guidelines/`, and `sources/` within the candidate release as needed. A coherent package is more important than fixed folder names.
 
 Provide design tokens in JSON or CSS for digital brands, with semantic names mapped to actual values. Do not insert guessed values into approved tokens. Include file paths, formats, purpose, version, status, source/license details, and limitations in the manifest. A specification, a preview, an editable template, and a production export must be labeled distinctly.
+
+## Complete-kit acceptance criteria
+
+A full kit is a collection of actual files, not a single image. Required categories: strategy, approved naming/messaging, logo family, semantic color system, licensed/qualified typography, visual language, voice, business-relevant applications, **illustrated multipage Manual de Marca PDF**, implementable technical appendix, editable sources where supported, practical exports and release manifest. Mark each category delivered, pending, excluded by scope, blocked or unverified; never claim completion while a mandatory category is missing.
+
+- Produce the logo family from coherent masters: primary, secondary, symbol if appropriate, monochrome/reverse, small-size behavior. Document geometry, clear space, tested minimum sizes, backgrounds and prohibited uses. Check vector path editability and transparent raster exports.
+- Supply role-based palette values (HEX/RGB, qualified CMYK by named profile where relevant), allowed combinations and measured contrast. Pantone matches only if verified.
+- Record actual font names, weights, source/license, language coverage, fallbacks and usage hierarchy; do not redistribute restricted font files.
+- Define repeatable rules for patterns, shapes, icons, illustration, photography, composition and brand voice, with on-brand/off-brand examples.
+- Select applications from actual channels and provide relevant mockups **and**, when required, separately measured production layouts; distinguish each from a concept image.
+- Include an asset index with filenames, paths, format, dimensions, color space if known, editable/export status, source/license, approval status and limitations. Deliver semantic digital tokens when applicable.
+- Ensure all representations of the identity use the same approved master assets; do not regenerate logo lettering separately for every mockup.

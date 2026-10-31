@@ -23,3 +23,16 @@ Include relevant spacing, icon grid/stroke, interaction and motion specification
 Cross-check appendix measurements against the real assets and application examples. Ensure all token names/values agree with exports and guidelines, and all listed files exist. Label unknowns, provisional conversions and unverified production effects explicitly. Keep detailed source/license records in the package and link them from the appendix.
 
 The appendix may be a chapter in the manual with companion machine-readable files. It does not require an additional standalone PDF. Record it as its own coverage category in the release manifest so it is not silently omitted.
+
+## Reproducibility checklist
+
+For each identity system, provide actual measured values and linked masters rather than generic recommendations:
+- **Marks:** file paths, SVG viewBox or source coordinates, relative lockup geometry, derived clear-space unit, tested screen/print minimums, color variants, raster export sizes, transparency and forbidden modifications.
+- **Color:** HEX and RGB, semantic roles, allowed foreground/background pairs, calculated contrast ratios with criteria, and CMYK only with a stated profile/conversion method. Label approximations; never invent Pantone equivalences.
+- **Type:** exact families/weights, licensed source, glyph/language coverage, fallback substitutions, heading/body scales, leading, tracking and concrete examples per relevant medium.
+- **Graphics:** icon grid/stroke, pattern repeat, crop rules, spacing, photographic direction and approved/prohibited examples.
+- **Applications:** actual physical dimensions, safe areas, bleed, resolution, dieline or printer dependency, material/finish assumptions and necessary proofing; digital breakpoints, tokens and interaction states where relevant.
+- **Voice:** approved descriptors, terminology, headline/product/customer-service examples and prohibited unsupported claims.
+- **Assets:** inventory with canonical path, version, file type, pixel/physical dimensions, color space, editable/outlined/raster status, intended use, rights and approval status.
+
+Validate consistency between source files, exports, manual and machine-readable tokens. Never infer a legal license, working QR code, live domain, production certification or verified print specification from a rendered illustration. Record unverified data and the external specialist/vendor confirmation required.

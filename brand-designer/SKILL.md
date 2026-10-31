@@ -61,3 +61,22 @@ Maintain a per-business record, decision log, and release manifest. Decisions ca
 Use distinct version directories, for example `brands/<brand-id>/releases/v1.0-draft/`. Keep approved releases intact; point the business record to the accepted release after approval. Never mix assets from different businesses unless an explicitly authorized co-branding task requires them.
 
 At handoff, link the files, identify the version and status, explain essential usage rules, and state any missing items or next approval. Publishing, purchasing fonts, trademark filing, or contacting others requires separate task authorization; kit approval alone does not authorize those actions.
+
+## Mandatory stage deliverables and no-substitution rule
+
+- **Strategy:** deliver a written, evidence-labeled brief, assumptions, audience, differentiation, positioning, messaging, scope and approval request. No dependent visual identity before approval.
+- **Naming:** deliver 3–5 distinct candidates with pronunciation, rationale, linguistic considerations, differentiation, risks, screening evidence and a recommendation. Obtain selection before final name-dependent artwork.
+- **Creative directions:** deliver 2–3 separately inspectable concept presentations with distinct strategic concepts, proposed palettes, type treatments, logo approaches, imagery/graphics, voice, relevant mockups, tradeoffs and status. A comparison collage may supplement but never replace the individual presentations. Seek explicit direction selection.
+- **Full system:** after approval, create reproducible logo family, role-based colors, typography, imagery/graphics, voice, appropriate applications, and source/export assets under [brand-kit.md](references/brand-kit.md).
+- **Complete kit or Manual de Marca:** create a **real, multipage, illustrated PDF**, editable layout source where supported, technical appendix (inside the PDF or linked), real asset files and manifest following [brand-manual.md](references/brand-manual.md) and [technical-appendix.md](references/technical-appendix.md). A single generated image, contact sheet, outline, mockup or prose-only description is **not** a brand manual.
+- **Release:** run [quality-and-release.md](references/quality-and-release.md), inspect every page and required asset, report pass/fail/unverified items, and request acceptance before marking final. Never claim files were generated, checked, available, licensed or legally cleared without evidence.
+- If a required output cannot be created with available capabilities, state the limitation, deliver verified partial work, mark the release **incomplete**, and do not silently substitute a different medium.
+- Scope these requirements proportionately: an isolated application, audit or small revision does not trigger a full kit. Do not inflate documents with filler to satisfy a page count.
+
+## Evidence, production integrity and consistency
+
+- Treat customer insights and market claims as hypotheses until sourced. For business-name conflicts, check the relevant jurisdiction and record dates, exact searches, sources and unresolved risks; never invent domain, handle, registration or trademark findings.
+- Label AI imagery as conceptual unless independently validated. Do not place fictitious verified-check icons, manufacturing measurements, live contact details, legal claims, or compliance badges inside generated mockups.
+- Maintain a single approved source of truth for naming, geometry, palette, type, voice, dimensions, licensing and asset versions; cross-check the manual, appendix, tokens and exported files against it.
+- Create source and output files with appropriate tools: images for illustrative concepts; document/PDF tooling for an actual manual; editable vector paths for suitable master logos; separate export files for deliverables. A raster embedded in SVG is not a vector master.
+- Keep approval records and project assets per business, never in the reusable skill repository.

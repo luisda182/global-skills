@@ -21,3 +21,11 @@ Write a concise business summary, audience and need, competitive context, positi
 For positioning, a useful structure is: For [audience] who need [job], [brand] offers [category/benefit], supported by [credible reason]. Use it as a thinking aid, not mandatory final copy.
 
 Ask approval of the concrete brief and proposed assumptions. Record what is approved and leave unresolved items open. If the user supplied an already approved strategy, confirm its scope from the evidence and proceed without restarting discovery.
+
+## Evidence and acceptance checklist
+
+- Record what is user-provided, externally researched, inferred or proposed; cite sources and retrieval dates for material market and competitor claims.
+- Define the specific buyer problem, purchasing context, credible differentiators, brand promise and operational evidence required to support it. Do not present untested audiences or price points as validated.
+- Document geography, language and cultural considerations, accessibility, priority physical/digital touchpoints, practical budgets, production constraints, deadlines and approver.
+- Establish measurable success tests appropriate to the project (for example recognition, menu comprehension, readability, consistency, or customer testing); distinguish intended targets from achieved outcomes.
+- End the strategy brief with explicit assumptions, unresolved decisions, recommended scope and approval question. Record approval scope before dependent naming/visual decisions.

@@ -38,3 +38,28 @@ Deliver an editable layout source, reviewed PDF, and separately usable brand ass
 Render and inspect every final PDF page at readable scale using available PDF tools; a contact sheet helps check rhythm but does not replace detailed legibility checks. Inspect artwork, typography, whitespace, clipping, repeated rules, page numbers and contents references. Check application examples against the same approved master assets. Revise and rerender affected pages before delivery.
 
 Use one source of truth for values repeated across manual, appendix, tokens and assets. Keep print effects and materials labeled as simulations or production recommendations until verified. Include manual source/PDF paths, appendix, linked assets and unresolved limitations in the release manifest, then use the existing release approval gate.
+
+## Mandatory complete-manual deliverable
+
+When the request is for a complete brand kit or Manual de Marca, produce an **actual illustrated, multipage PDF**, not one picture, a moodboard, an outline, a set of image prompts, or text claiming a manual exists. Target approximately **25–40 substantive pages** for a typical comprehensive identity when justified by content; adjust to project complexity and do not pad. Deliver an editable visual layout source when supported; otherwise mark that component pending/unavailable. A technical appendix may be integrated into the PDF or supplied separately, but its coverage is mandatory.
+
+Minimum chapters and illustrated evidence:
+1. Cover, contents, release/version/status, brand premise and navigation.
+2. Brand strategy: audience, positioning, promise, personality, differentiation and evidence/assumptions.
+3. Naming and verbal identity: approved spelling/pronunciation, rationale, tagline, voice pillars, vocabulary, real examples and restrictions.
+4. Logo system: master mark, symbol/wordmark, alternate lockups, monochrome/reverse, construction where useful, repeatable clear-space measurements, minimum sizes, backgrounds and incorrect uses.
+5. Color: labeled swatches, semantic roles, exact digital values, qualified print values, usage hierarchy, permitted combinations and contrast examples.
+6. Typography: real specimens, families/weights/licenses, hierarchy, spacing, language coverage, fallback and realistic layouts.
+7. Visual language: grids, patterns, illustration, icons, photography, composition, imagery do/don't and motion when relevant.
+8. Applications: multiple business-relevant digital/physical touchpoints, demonstrating identical approved assets, dimensions and production notes.
+9. Technical appendix: reproducible specifications, export inventory, implementation guidance, accessibility, production tolerances and source/license notes.
+10. Governance: master-asset index, file naming, release status, usage ownership, maintenance and known limitations.
+
+Every substantive rule should have an inspectable illustration, diagram, specimen, table or realistic application when that improves reproducibility. A construction diagram must derive from real artwork; don't invent measurements. Differentiate conceptual mockups from production-ready layouts and factual photographs.
+
+## Editorial and preflight standard
+
+- Establish page size, grid, margins, hierarchy, section openers, captions, running headers/page numbers and consistent figure treatment. Include a functioning contents structure and readable type.
+- Generate and inspect **every** PDF page at readable scale. Verify clipping, text overflow, fonts/glyphs, line breaks, page numbering, image resolution, graphic consistency and appendix references. A contact sheet is supplementary only.
+- Cross-check values against actual master assets, tokens and appendix; fix discrepancies and re-render affected pages.
+- Record actual source/PDF file paths and inspection results in the release manifest. If PDF generation or page inspection is unavailable, label the manual incomplete and disclose why.

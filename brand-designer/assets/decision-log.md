@@ -16,3 +16,7 @@ Copy this file into the selected business's workspace. Add entries for actual de
 - Conditions or remaining questions:
 - Supersedes decision ID (if any):
 - Affected files:
+
+## Additional decision evidence
+
+For strategy, naming, direction, palette, master logos, applications and final release, record exact approved scope and source. Distinguish concept selection from production acceptance. Log review failures, revision requests, superseded masters, acceptance conditions and dates. Never convert a proposal or lack of objection into approval.

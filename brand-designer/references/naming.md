@@ -21,3 +21,10 @@ Do not choose by a numerical score alone. Do not invent linguistic findings or c
 Present a concrete recommendation and obtain selection before investing in the final name-dependent identity. Existing explicit delegation can authorize selection; record its scope. Do not repeat the gate when the supplied name is already approved. Research and non-dependent work may continue while approval is pending.
 
 Record the selected name, capitalization, accents, pronunciation, approved rationale, descriptors/tagline, and family rules in the business record and manual. Rejected candidates belong in working records, not the final approved manual unless requested. Name acceptance does not authorize domain purchase or trademark filing.
+
+## Screening and naming acceptance
+
+- For each shortlisted name, document intended pronunciation, spelling/dictation usability, memorable associations, linguistic/cultural concerns, category fit, differentiation and expansion potential.
+- When screening is requested or material, check relevant official trademark/business registers where accessible, exact and similar business names, domains and social platforms; include jurisdiction, query variants, source links, check date and findings per candidate.
+- Classify results as **observed conflict**, **no conflict observed in the limited search**, **not checked**, or **requires specialist clearance**. Never equate search silence, an available URL, or a generated graphic with legal clearance.
+- Record approved name spelling, capitalization, accents, descriptor, pronunciation, decision evidence and scope. Selection permits design exploration, not trademark filing, registration or purchasing.

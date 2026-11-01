@@ -48,6 +48,12 @@ Read [quality-and-release.md](references/quality-and-release.md) before presenti
 
 **Release gate:** present the reviewed kit and manifest for acceptance before marking it approved. A request to produce a kit authorizes draft production, not implicit acceptance. Persist approvals already given; do not request them again. Explicitly delegated stage decisions may satisfy the named gates; log the authorization and your decisions. Preserve existing approved identity elements unless changes are explicitly authorized.
 
+### Deliverable scope
+
+For complete brand kits, include exported social graphics (avatar/profile image and a small set of brand-relevant post graphics), tailored to the intended channels. Do not include editable social templates or certificate deliverables in this skill's scope. Editable logo masters and the editable manual remain required where supported.
+
+Select mockups and product screens from the actual business, users, workflows, channels and devices. Do not impose an LMS, academic-document or other industry-specific checklist on unrelated brands. Optional groups may include application-specific product screens, relevant physical/digital mockups and a Lovable implementation handoff. Offer the Lovable group when the project targets Lovable; read [lovable-handoff.md](references/lovable-handoff.md) when selected. Record the chosen groups and concrete exports in the Gate A inventory. Distinguish a specification, rendered mockup, editable source and tested production export.
+
 ### 4. Apply, audit, or revise
 
 For application, use the selected business's approved identity and adapt its hierarchy to the medium. Do not impose fixed point-size thresholds across web, print, and slides or rotate accent colors mechanically.

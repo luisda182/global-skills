@@ -11,7 +11,7 @@ For a full kit, cover every category below. Adapt formats and application choice
 | Typography | Display/heading/body roles as needed; families, weights, hierarchy, spacing, language coverage, fallbacks, font source and license information |
 | Visual language | Shapes, patterns, composition and spacing, imagery/art direction, illustration and icon rules, representative examples |
 | Voice | Voice attributes, tone by context, terminology, do/don't examples, sample headline, product description, social copy, and customer response |
-| Applications | Prioritized real applications, normally business card, social avatar/post, stationery, and presentation cover/content; tailor choices to the brief |
+| Applications | Exported social avatar/profile and a small set of post graphics for intended channels; additional mockups and product screens selected from actual brand needs. No editable social templates or certificate deliverables. |
 | Guidelines | Illustrated brand manual with coherent editorial layout, rules and application examples, version/status and asset index; editable layout source plus reviewed PDF; see [brand-manual.md](brand-manual.md) |
 | Technical appendix | Implementable logo/color/type/production specifications, verified contrast pairs and asset links, plus digital tokens and states when relevant; see [technical-appendix.md](technical-appendix.md) |
 | Asset package | Editable masters, available exports, templates, tokens, provenance/license notes, delivery manifest and known limitations |
@@ -55,3 +55,11 @@ A full kit is a collection of actual files, not a single image. Required categor
 ## Manual-first packaging rule
 
 A manual approval candidate contains the PDF, editable layout source where supported, technical appendix, approved/proposed source-of-truth specifications, representative draft artwork, application mockups, and a **planned production asset manifest**. It need not contain all final exports. After explicit manual approval, produce the individual production assets listed in the approved manifest and validate them. Label draft masters and mockups separately from final exports; no final package may be called delivered at Gate A. Use [asset-production.md](asset-production.md) for technical standards.
+
+## Core social exports and optional application groups
+
+For complete kits, deliver actual social graphics, not only copy or pictures of posts inside the manual. Define channels, dimensions, content and export formats in the inventory; verify current channel specifications when relevant. Editable social templates and certificates are excluded from this skill's deliverables. This does not remove editable logo masters or manual sources.
+
+Choose additional mockups and product screens by business context, audience, workflows and devices. A physical-product brand may need packaging mockups; a software brand may need relevant interface screens. Neither implies a fixed collateral list or a working application. Scope real exports separately from illustrative mockups. Standalone Markdown brand/product/voice guides and page-image previews may be added when useful; they do not replace required manual or asset files.
+
+For Lovable projects, offer the optional implementation kit under [lovable-handoff.md](lovable-handoff.md). Selection adds its concrete files to the manual-first inventory, not automatic permission to produce final assets before Gate A.

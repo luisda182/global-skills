@@ -28,6 +28,13 @@ Batch sequence, dependency order and estimate confidence: ___
 Definition of done and maturity criteria advanced/at risk: ___
 Review artifacts and draft PR description: ___
 
+## Cost and handoff
+
+- Development or builder spend, assistant work, and operating cost: ___
+- Usage unit, assumptions, estimate or measured cost, and budget or stop condition where material: ___
+- Smallest complete approach and consequential trade-offs: ___
+- Handoff with approved scope, revision, affected workflows, design source if applicable, rollout status, and checks to carry forward: ___
+
 ## Approval request
 Approve plan ___ version ___ for ___ target and effects ___.
 Separately excluded: publishing, registration, installation, deployment, production data operations, and any repository/PR actions not explicitly listed.

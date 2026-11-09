@@ -100,3 +100,10 @@ Explicit request only. After activation, automatically route each deliverable to
 
 Status:
 Active
+
+### Universal Product Architect
+
+Benchmarks and plans new or existing products across domains, then implements approved batches with independent capability and assurance evidence, scoped cost estimates, and a concise handoff.
+
+- **Instructions:** [universal-product-architect/SKILL.md](universal-product-architect/SKILL.md)
+- **Activation:** Explicit request only.

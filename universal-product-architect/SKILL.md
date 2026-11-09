@@ -33,6 +33,10 @@ Before code changes, present the concrete plan and wait for explicit approval co
 
 Read only references needed for the current stage. The worked [book club](examples/book-club.md), [party game](examples/party-game.md), and [existing app](examples/existing-app.md) illustrate adaptation; their assumptions are not universal requirements.
 
+## Cost and continuity
+
+For each proposed implementation batch, record development or builder spend, assistant usage, and product operating cost separately. Use the [cost and handoff reference](references/cost-and-handoff.md) when any category is material. Compare the smallest complete approach with a broader approach when the choice changes cost, user value, or assurance. Keep an auditable handoff and refresh only evidence affected by a change in scope, revision, environment, or risk.
+
 ## Reporting
 
 Lead with outcome and authorization state. For every requested benchmark, include the completed matrix and both lenses’ assessed means, coverage, bounds, and critical gates. Mark partial assessments provisional and use U for an assessed mean with no supported rows. Show capability and assurance separately, scope and coverage, critical failures, tests passed/failed/skipped/not run, evidence links, residual risks, and next batch. Use “implemented, unverified” where appropriate. Never declare production readiness from source inspection, a demo, a passing build, or planning validation alone.

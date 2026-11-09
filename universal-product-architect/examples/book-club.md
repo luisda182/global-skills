@@ -27,6 +27,17 @@ Assurance anchors per row: 1 recorded demo; 2 repeatable happy-path check; 3 rel
 
 Current implementation: absent (new product) for all six; capability observed contribution 0, below level 1; assurance U for all. Capability coverage 100%, bounds 0–0; assurance coverage 0%, bounds 0–5. Neither target attained. A plan does not raise scores.
 
+## Partial evidence example for an existing app
+
+This separate hypothetical Mode B assessment uses B2 and B3 from the rubric above with equal weights. A public walkthrough can select a title and record progress, and source inspection shows checkpoint scheduling and progress tracking. The reviewer lacks two authorized reader accounts, so spoiler payloads cannot be checked. Public competitor documentation informs the rubric.
+
+| Workflow | Capability | Assurance | Next check |
+| --- | --- | --- | --- |
+| B2 Shared reading | 3 provisional. Source supports the core workflow. | 1. A public demo covers part of the workflow. | Verify checkpoint scheduling and edits across two sessions. |
+| B3 Spoiler-aware discussion | U. Access limits prevent assessing the workflow. | U. Runtime checks blocked. | Use two readers at different checkpoints and inspect previews, direct links, and notification payloads. |
+
+Capability assessed mean 3.0, coverage 50%, bounds 1.5–4.0. Assurance assessed mean 1.0, coverage 50%, bounds 0.5–3.0. The critical spoiler criterion is unresolved, so neither level-4 target is attained. If a competitor walkthrough shows faster repeat agenda setup, propose reusing an agenda and measure completion steps while checking that copied content respects the new checkpoint.
+
 ## Architecture and risks
 
 Propose the team's familiar web stack, managed storage and server authorization if no stack is supplied. Select vendors after access/cost constraints are known. Data: clubs, memberships, reads/checkpoints, discussions, polls, votes, meetings, delivery intents. Authority derives club access from membership. No SQL RPC requirement; use the stack's supported atomic operations.

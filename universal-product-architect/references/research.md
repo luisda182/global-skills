@@ -10,11 +10,17 @@ For every adopted claim record source ID, title, direct URL, publisher, access d
 
 Use a feature comparison to identify expected workflows, differentiation hypotheses, and exclusions. Do not equate competitor popularity with user demand. Validate user needs separately. Record contradictions explicitly; choose a conservative interpretation or defer the disputed detail. Pricing, free-tier limits, legal rules, and release-dependent behavior need a fresh check when material.
 
+## Hands-on competitor walkthroughs
+
+Select comparable tasks across two or three relevant products and the target app where access permits. Define the actor, starting state, inputs, and success criteria before beginning. Use public surfaces, demos, or authorized accounts. Record blocked steps and consult official documentation for the behavior the vendor describes.
+
+Record the product, plan, steps, outcome, friction, and relevant recovery paths. Capture a source link or screenshot where it substantiates a finding. Label each finding directly observed, vendor documented, inferred, or blocked. Treat explanations of internal implementation as hypotheses unless public technical evidence supports them.
+
 ## From observation to requirement
 
 Example: a competitor documents chapter rooms → observed workflow organization. Proposed requirement: previews respect the reader's selected spoiler boundary. That enforcement is our design proposal, not proof about the competitor.
 
-Specify whether each benchmark item is user-required, competitor-observed, risk-derived, or exploratory. Cite the source for observations and state the rationale for proposals. Do not copy protected content, branding, private datasets, or nonpublic implementation details. Review content/data licensing before reuse.
+Specify whether each benchmark item is user-required, competitor-observed, risk-derived, or exploratory. Cite the source for observations and state the rationale for proposals. For a pattern worth adapting, record the user problem, observed behavior, target change, expected effort or dependencies, and an observable acceptance check. Link it to the benchmark criterion and roadmap item where applicable. Do not copy protected content, branding, private datasets, or nonpublic implementation details. Review content/data licensing before reuse.
 
 ## Stop conditions
 

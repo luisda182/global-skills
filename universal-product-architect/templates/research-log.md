@@ -12,6 +12,12 @@ Search queries, source coverage and access limits: ___
 | --- | --- | --- | --- | --- |
 | ___ | ___ | ___ | ___ | ___ |
 
+## Walkthrough evidence
+
+| Task / actor / starting state / success criterion | Product / plan | Steps / outcome / friction | Evidence type / reference / access limits | Adaptation / effort / acceptance check / requirement ID |
+| --- | --- | --- | --- | --- |
+| ___ | ___ | ___ | ___ | ___ |
+
 Conflicting claims and resolution: ___
 Unverified/inaccessible claims: ___
 Proposed differentiation and validation experiment: ___

@@ -18,5 +18,6 @@ Scope changes/deferred in-scope criteria: ___
 | Capability | ___ | ___ | ___ | ___ | ___ | ___ |
 | Assurance | ___ | ___ | ___ | ___ | ___ | ___ |
 
-Open unknowns, failed checks and next assessment: ___
+Assessment status (complete / provisional): ___
+Open unknowns and failed checks, with the smallest check to resolve each consequential gap: ___
 

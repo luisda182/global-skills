@@ -28,6 +28,8 @@ For each requirement, replace broad anchors with cumulative, observable outcomes
 
 Use equal weights unless impact justifies differences. Report the full matrix, denominator, weights, and assessed coverage. Score each lens 1–5 only where evidence supports an anchor; use U when unknown. Use 0 solely as a calculation placeholder for an observed absent required behavior, explicitly “below level 1,” never as a sixth maturity level.
 
+Include all in-scope rows even when access is limited. A provisional capability score requires evidence for its specific anchor. For an unknown score, record the missing evidence and the smallest check that could establish the anchor. Label partial results provisional and report each lens even when its assessed mean is U.
+
 For a lens with total applicable weight W, known weight K, and known weighted sum S:
 - Assessed mean = S/K, or U if K=0.
 - Coverage = K/W.

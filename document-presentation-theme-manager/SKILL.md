@@ -37,9 +37,19 @@ Inspect the source and identify protected regions before formatting. Preserve sc
 
 Preserve wording, question and subquestion order, marks, answer spaces, rubric criteria, totals, citations, links, dates, tables, chart data, units, equations, subscripts/superscripts, image labels, speaker notes, and hidden slides. Preserve intentional section/page breaks and numbering. Do not reveal answer keys, hidden solutions, or examiner comments in student outputs. Do not rewrite, simplify, summarize, add scientific claims, or delete material as part of theming. If reflow cannot accommodate content, add space/pages/slides only where authorized and meaning remains intact; otherwise surface the conflict. Never shrink text below the theme minimum to force a fit.
 
-Apply semantic heading/body/table/caption styles, document styles or slide master/layout roles where supported, rather than relying entirely on isolated manual formatting. Keep text and equations editable where possible. Read the chosen theme only, then [validation](references/validation.md). Read [template guidance](references/template-guidance.md) for supplied templates and [extension guidance](references/extensibility.md) when adding themes. Examples are in [routing and overrides](references/examples.md).
+Apply semantic heading/body/table/caption styles, document styles or slide master/layout roles where supported, rather than relying entirely on isolated manual formatting. Keep text and equations editable where possible. Read the chosen theme only, then [rendering consistency](references/rendering-consistency.md) and [validation](references/validation.md). Read [template guidance](references/template-guidance.md) for supplied templates and [extension guidance](references/extensibility.md) when adding themes. Examples are in [routing and overrides](references/examples.md).
 
 Use available document/presentation creation or editing tools for the actual format; this skill specifies styling, not a renderer. Preserve a source copy and create a separately named themed output unless the user requests in-place editing. Do not invent a school logo or official template when none is supplied.
+
+## Rendering consistency
+
+Apply the shared [rendering consistency workflow](references/rendering-consistency.md) to every editable artifact and requested PDF/export. Resolve fonts in the actual authoring/export environment, verify required glyph coverage, and set the resolved families on semantic styles or slide masters. Keep each theme's distinct type roles and appearance; report any fallback used.
+
+Use native list formatting and verified glyphs. If a bullet glyph is unavailable, substitute a simple hyphen, numbering, or a native shape rather than a missing-glyph box or an ornamental/private-use symbol.
+
+Create requested PDFs from the finalized editable DOCX/PPTX using the same authoring source and export workflow; do not recreate the PDF independently. Embed PDF fonts when the renderer and font license permit, then verify embedding when tools allow. Render and visually compare every final exported page/slide against the final preview, correcting and re-exporting any material mismatch. Apply grayscale proofing wherever the chosen theme requires it.
+
+Exact pixel parity across preview renderers, office applications, operating systems, PDF viewers, and printers cannot be guaranteed. Aim for consistent fonts, hierarchy, content, wrapping, and page/slide structure; report renderer differences or checks that could not be performed.
 
 ## Accessibility and completion
 

@@ -19,7 +19,7 @@ Use body, navy, or slate text on white/light gray only; white text only on navy.
 
 ## Typography and layout
 
-Headings: Aptos → Calibri → Arial → Liberation Sans. Body: Cambria → Georgia → Liberation Serif. Body 11.5–12 pt, never below 11 pt; title 22–26 pt; heading 1 16 pt, heading 2 13 pt; captions/footnotes 10 pt minimum. Use 1.15–1.3 body spacing and 6 pt after paragraphs. Apply real heading levels without skipping for appearance.
+Headings: Aptos → Calibri → Arial → Liberation Sans. Body: Cambria → Georgia → Liberation Serif. Body 11.5–12 pt, never below 11 pt; title 22–26 pt; heading 1 16 pt, heading 2 13 pt; captions/footnotes 10 pt minimum. Use 1.15–1.3 body spacing and 6 pt after paragraphs. In the actual authoring/export environment, verify installed font families and required glyph coverage before choosing the first suitable option in each chain. Preserve the intended sans-serif headings and serif body distinction when substituting; apply resolved fonts to semantic styles. Use native list styles with a verified bullet glyph, or use a simple hyphen/numbering; avoid ornamental, Wingdings, emoji, and private-use symbols for essential content. Apply real heading levels without skipping for appearance.
 
 New reports: A4 portrait, 25 mm margins; retain source paper size and letterhead clearance. Use numbered headings where appropriate, page numbers, consistent table/figure captions, and a restrained running header only where it does not interfere with official letterhead. Use existing report sections; do not add an executive summary or fabricate recommendations during styling. Repeat table headers and avoid splitting single data rows where practical. Keep table values and chart scales unchanged.
 
